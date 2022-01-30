@@ -1,0 +1,18 @@
+unet2.py	train model for single cell segmentation
+can_side.py  train model for single cell classification
+can_beside.py  train model for quality control
+area_classify.py  train models for area recognition
+4areas_clf_allkinds.py	improving the accuracy of prediction of area classify models with logistic regression
+all_pats_degree_of_infiltration_linux.py 	estimate the cell infiltration
+
+
+细胞影像与hpv相关.py  train models to predict HPV integration status and hpv types
+细胞影像与分型相关.py  train models to predict proteomic subtype
+细胞影像与分期关联2_linux.py  train models to predict stages, grades and lymphovascular space invasion
+影像各指标预测结果对病人分型.py  WSI-based subtyping of patients 
+细胞影像与分子表达量相关.py  train model to predict the expression of proteins
+病理图是否与突变相关2.py  train models for genomic alteration prediction
+CF预测各种指标.py predicting pathological characteristics with clinical features
+单细胞_git.R  single-cell clustering
+非负矩阵分解.py	calculate the proteomic expression in 18 clusters
+
