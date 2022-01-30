@@ -1,1 +1,1 @@
-# Integrated_learning_SCC
+# Integrated learning for SCC
